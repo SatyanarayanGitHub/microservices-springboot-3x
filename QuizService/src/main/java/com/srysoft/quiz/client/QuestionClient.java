@@ -1,4 +1,4 @@
-package com.srysoft.quiz.configuration;
+package com.srysoft.quiz.client;
 
 
 import com.srysoft.quiz.entity.Question;

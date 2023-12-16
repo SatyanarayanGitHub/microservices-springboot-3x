@@ -1,6 +1,6 @@
 package com.srysoft.quiz.service;
 
-import com.srysoft.quiz.configuration.QuestionClient;
+import com.srysoft.quiz.client.QuestionClient;
 import com.srysoft.quiz.entity.Quiz;
 import com.srysoft.quiz.repository.QuizRepository;
 import org.springframework.stereotype.Service;
